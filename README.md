@@ -4,3 +4,4 @@ This code is a Streamlit app for predicting the breed of a dog based on an uploa
 It uses a pre-trained Keras model to make predictions.
 When the user uploads a dog image and clicks the 'Predict' button, the app processes the image, predicts the breed, and displays the result.
  
+As of right now, it will predict only 3 breeds: Scottish Deerhound, Maltese, and Bermese Mountain Dog.
